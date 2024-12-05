@@ -6,7 +6,7 @@
 static int val=200;
 void func(void);
 
-//EXPORT_SYMBOL(func);
+EXPORT_SYMBOL(func);
 
 //module_param(val,int,S_IRUGO);
 
