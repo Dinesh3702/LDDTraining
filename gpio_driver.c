@@ -104,3 +104,5 @@ static void __exit gpio_driver_exit(void) {
 
 module_init(gpio_driver_init);
 module_exit(gpio_driver_exit);
+
+
